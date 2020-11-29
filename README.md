@@ -9,4 +9,4 @@ Landing Page hecha solo con Tablas HTML y poquito de CSS
 
 ---
 
-# [DEMO](https://gac982.github.io/finder_mac_css/ "demo")
+# [DEMO](https://gac982.github.io/maquetacion-con-tablas/ "demo")
